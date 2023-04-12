@@ -11,6 +11,7 @@ dependencies:
   - jupyterlab
   - pytorch::pytorch
   - pytorch::torchvision
+  - lightning
   - torchtext
   - opencv
   - librosa
